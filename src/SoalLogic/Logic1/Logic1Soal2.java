@@ -1,5 +1,7 @@
 package SoalLogic.Logic1;
 
+import SoalLogic.BasicLogic;
+
 public class Logic1Soal2 extends BasicLogic {
     public Logic1Soal2(int n) {
         super(n);
